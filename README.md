@@ -27,3 +27,4 @@ Visit `http://localhost:8100` to view the site
 
 Visit `http://localhost:8102` for Phpmyadmin
 
+...
